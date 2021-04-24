@@ -33,6 +33,7 @@ img {
   margin-right: auto;
   height: 200px;
 }
+
 #eatenBurgers, #addBurgerOption, #notBeenEaten{
   width: 33.33%;
   float: left;
